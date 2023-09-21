@@ -81,6 +81,7 @@ CONFIG_DEFAULT_dropbear=y
 CONFIG_DEFAULT_e2fsprogs=y
 CONFIG_DEFAULT_firewall4=y
 CONFIG_DEFAULT_fstools=y
+CONFIG_DEFAULT_hostapd=y
 CONFIG_DEFAULT_kmod-nft-offload=y
 CONFIG_DEFAULT_kmod-phy-realtek=y
 CONFIG_DEFAULT_kmod-uwe5622=y
